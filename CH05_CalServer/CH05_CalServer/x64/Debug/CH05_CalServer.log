@@ -1,0 +1,3 @@
+﻿  TCPServer_cal_01.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalServer\CH05_CalServer\TCPServer_cal_01.c(46,5): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CH05_CalServer.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalServer\x64\Debug\CH05_CalServer.exe

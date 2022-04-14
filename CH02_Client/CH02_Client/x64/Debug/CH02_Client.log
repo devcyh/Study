@@ -1,0 +1,4 @@
+﻿  ch02_udpclient.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH02_Client\CH02_Client\ch02_udpclient.c(44,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH02_Client\CH02_Client\ch02_udpclient.c(30,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CH02_Client.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH02_Client\x64\Debug\CH02_Client.exe

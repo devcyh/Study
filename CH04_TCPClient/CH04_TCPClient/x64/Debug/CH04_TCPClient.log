@@ -1,0 +1,4 @@
+﻿  TCPClient_tmp04.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH04_TCPClient\CH04_TCPClient\TCPClient_tmp04.c(24,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH04_TCPClient\CH04_TCPClient\TCPClient_tmp04.c(52,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CH04_TCPClient.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH04_TCPClient\x64\Debug\CH04_TCPClient.exe

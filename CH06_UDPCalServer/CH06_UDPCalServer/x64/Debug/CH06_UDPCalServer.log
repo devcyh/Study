@@ -1,0 +1,6 @@
+﻿  TCPServer_cal_04.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalServer\CH06_UDPCalServer\TCPServer_cal_04.c(54,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalServer\CH06_UDPCalServer\TCPServer_cal_04.c(13,20): warning C4101: 'hClntSock' :참조되지 않은 지역 변수입니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalServer\CH06_UDPCalServer\TCPServer_cal_04.c(40,14): warning C4101: 'rcvTotal' :참조되지 않은 지역 변수입니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalServer\CH06_UDPCalServer\TCPServer_cal_04.c(40,6): warning C4101: 'rcvSum' :참조되지 않은 지역 변수입니다.
+  CH06_UDPCalServer.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalServer\x64\Debug\CH06_UDPCalServer.exe

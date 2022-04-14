@@ -1,0 +1,4 @@
+﻿  CH03_test.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH03_test01\CH03_test01\CH03_test.c(24,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH03_test01\CH03_test01\CH03_test.c(41,32): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CH03_test01.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH03_test01\x64\Debug\CH03_test01.exe
