@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TCPClient_cal_02.c">
+    <ClCompile Include="TCPClient_cal_실습결과.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

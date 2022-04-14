@@ -1,8 +1,10 @@
-﻿  TCPClient_cal_02.c
-C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_02.c(55,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
-C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_02.c(55,10): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
-C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_02.c(24,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_02.c(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_02.c(55,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_02.c(59,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  TCPClient_cal_실습결과.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(47,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(47,10): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(26,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(43,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(47,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(51,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(35,23): warning C4101: 'rcvTotal' :참조되지 않은 지역 변수입니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\CH05_CalClient\TCPClient_cal_실습결과.c(35,15): warning C4101: 'rcvSum' :참조되지 않은 지역 변수입니다.
   CH05_CalClient.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH05_CalClient\x64\Debug\CH05_CalClient.exe
