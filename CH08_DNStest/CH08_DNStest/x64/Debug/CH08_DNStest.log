@@ -1,0 +1,5 @@
+﻿  CH08_DNStest.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH08_DNStest\CH08_DNStest\CH08_DNStest.c(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH08_DNStest\CH08_DNStest\CH08_DNStest.c(23,10): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH08_DNStest\CH08_DNStest\CH08_DNStest.c(39,6): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CH08_DNStest.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH08_DNStest\x64\Debug\CH08_DNStest.exe
