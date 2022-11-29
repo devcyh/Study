@@ -1,0 +1,11 @@
+package org.tukorea.club;
+
+import java.util.*;
+
+public class ProgClub implements Aggregate {
+	ArrayList<ProgClubMember> memberList;
+
+	public ProgClub(ArrayList<ProgClubMember> memberList) {
+		this.memberList = memberList;
+	}
+}

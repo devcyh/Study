@@ -1,0 +1,12 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.*;
+
+public class FlyingTextEx extends JFrame {
+	private final int FLYING_UNIT = 10;
+	private JLabel la = new JLabel("HELLO");
+	public FlyingTextEx() {
+		setTitle("상,하,좌,우 키를 이용아여 텍스트 움직이기");
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+}

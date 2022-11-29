@@ -1,0 +1,51 @@
+package org.tukorea.club;
+
+import java.util.*;
+
+class ProgClubIterator implements Iterator {
+	private ProgClub club;
+	private int index = 0;
+
+	public ProgClubIterator(ProgClub club) {
+		this.club = club;
+	}
+
+	@Override
+	public boolean hasNext() {
+		boolean bool = index < club.getSize();
+		if (!bool)
+			index = 0;
+		return bool;
+	}
+
+	@Override
+	public Object next() {
+		Object obj = club.getMember(index++);
+		return obj;
+	}
+}
+
+public class ProgClub implements Aggregate {
+	private ArrayList<ProgClubMember> memberList;
+
+	public ProgClub() {
+		memberList = new ArrayList<ProgClubMember>();
+	}
+
+	public void addMember(ProgClubMember member) {
+		memberList.add(member);
+	}
+
+	public ProgClubMember getMember(int index) {
+		return memberList.get(index);
+	}
+
+	public int getSize() {
+		return memberList.size();
+	}
+
+	@Override
+	public Iterator createIterator() {
+		return new ProgClubIterator(this);
+	}
+}

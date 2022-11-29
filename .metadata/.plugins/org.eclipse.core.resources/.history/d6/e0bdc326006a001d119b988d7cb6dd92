@@ -1,0 +1,9 @@
+package org.tukorea.club;
+
+public class ProgClubIterator {
+	private ProgClub club;
+
+	public ProgClubIterator(ProgClub club) {
+		this.club = club;
+	}
+}

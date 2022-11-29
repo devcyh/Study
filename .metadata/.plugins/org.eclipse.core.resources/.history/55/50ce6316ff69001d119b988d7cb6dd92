@@ -1,0 +1,15 @@
+package org.tukorea.club;
+
+public class ProgClubMember {
+	private String name;
+	private String studentId;
+	private String department;
+	private String language;
+	private String gender;
+
+	@Override
+	public String toString() {
+		return "ProgClubMember [name=" + name + ", studentId=" + studentId + ", department=" + department
+				+ ", language=" + language + ", gender=" + gender + "]";
+	}
+}

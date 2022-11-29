@@ -1,0 +1,6 @@
+package org.tukorea.club;
+
+public class ProgClubIterator {
+	private ProgClub club;
+	
+}

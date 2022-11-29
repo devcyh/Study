@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TicketBoxMain.java&apos; to &apos;CYH_TBOX/src/org.tukorea.ticketbox.main&apos;&#x0D;&#x0A;- Original project: &apos;CYH_TBOX&apos;&#x0D;&#x0A;- Destination element: &apos;CYH_TBOX/src/org.tukorea.ticketbox.main&apos;&#x0D;&#x0A;- Original element: &apos;TicketBoxMain.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;org.tukorea.ticketbox.main" element1="/src&lt;{TicketBoxMain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1667400295752" units="1" version="1.0"/>
+</session>
