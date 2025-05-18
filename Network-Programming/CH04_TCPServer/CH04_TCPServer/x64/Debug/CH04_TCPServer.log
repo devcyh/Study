@@ -1,0 +1,3 @@
+﻿  TCPServer_tmp04.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH04_TCPServer\CH04_TCPServer\TCPServer_tmp04.c(44,5): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CH04_TCPServer.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH04_TCPServer\x64\Debug\CH04_TCPServer.exe

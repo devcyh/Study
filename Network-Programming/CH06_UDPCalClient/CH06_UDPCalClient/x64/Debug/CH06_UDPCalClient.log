@@ -1,0 +1,4 @@
+﻿  ch07_tcpclient.c
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalClient\CH06_UDPCalClient\ch07_tcpclient.c(34,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalClient\CH06_UDPCalClient\ch07_tcpclient.c(50,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CH06_UDPCalClient.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\NetProj\CH06_UDPCalClient\x64\Debug\CH06_UDPCalClient.exe

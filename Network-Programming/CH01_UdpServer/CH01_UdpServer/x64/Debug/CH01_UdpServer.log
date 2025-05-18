@@ -1,0 +1,4 @@
+﻿  CH01_UdpServer.c
+C:\Users\CYH\Desktop\Visual Studio 2022\CH01_UdpServer\CH01_UdpServer\CH01_UdpServer.c(39,18): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\CH01_UdpServer\CH01_UdpServer\CH01_UdpServer.c(42,7): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CH01_UdpServer.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\CH01_UdpServer\x64\Debug\CH01_UdpServer.exe

@@ -1,0 +1,4 @@
+﻿  CH01_UdpClient.c
+C:\Users\CYH\Desktop\Visual Studio 2022\CH01_UdpClient\CH01_UdpClient\CH01_UdpClient.c(45,18): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\CYH\Desktop\Visual Studio 2022\CH01_UdpClient\CH01_UdpClient\CH01_UdpClient.c(27,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CH01_UdpClient.vcxproj -> C:\Users\CYH\Desktop\Visual Studio 2022\CH01_UdpClient\x64\Debug\CH01_UdpClient.exe
