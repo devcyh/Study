@@ -1,0 +1,7 @@
+package org.tukorea.center;
+
+import org.tukorea.club.*;
+
+public class StudentCenter {
+
+}

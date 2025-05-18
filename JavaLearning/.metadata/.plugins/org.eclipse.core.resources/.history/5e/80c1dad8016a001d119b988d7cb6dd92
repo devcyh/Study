@@ -1,0 +1,10 @@
+package org.tukorea.center;
+
+import org.tukorea.club.*;
+
+public class StudentCenter {
+	public static void main(String[] args) {
+		ProgClub club = new ProgClub();
+		club.addMember(new ProgClubMember("철수", "1201", "소프트웨어", "파이썬", "남성"));
+	}
+}

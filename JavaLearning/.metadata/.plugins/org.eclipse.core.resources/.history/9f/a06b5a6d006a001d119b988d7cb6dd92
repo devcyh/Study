@@ -1,0 +1,25 @@
+package org.tukorea.club;
+
+import java.util.*;
+
+public class ProgClub implements Aggregate {
+	ArrayList<ProgClubMember> memberList;
+	private int last = 0;
+
+	public ProgClub() {
+		memberList = new ArrayList<ProgClubMember>();
+	}
+
+	public ArrayList<ProgClubMember> getMemberList() {
+		return memberList;
+	}
+
+	public int getLast() {
+		return last;
+	}
+
+	@Override
+	public Iterator createIterator() {
+		return new ProgClubIterator(this);
+	}
+}

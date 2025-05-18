@@ -1,0 +1,13 @@
+import javax.swing.*;
+import java.awt.event.*;
+import java.awt.*;
+
+public class KeyListenerEx extends JFrame {
+	private JLabel[] keyMessage;
+	
+	public KeyListenerEx() {
+		setTitle("keyListener 예제");
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		Container c = getContentPane();
+	}
+}

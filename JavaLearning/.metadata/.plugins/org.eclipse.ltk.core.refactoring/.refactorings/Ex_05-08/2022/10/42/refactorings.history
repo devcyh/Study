@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Temp/src&apos;&#x0D;&#x0A;- Original project: &apos;Ex_05-08&apos;&#x0D;&#x0A;- Destination element: &apos;Temp/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     InterfaceEx.java&#x0D;&#x0A;     PhoneInterface.java&#x0D;&#x0A;     SamsungPhone.java" description="Copy compilation units" destination="=Temp/src" element1="/src&lt;{InterfaceEx.java" element2="/src&lt;{PhoneInterface.java" element3="/src&lt;{SamsungPhone.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1665630099680" units="3" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+package org.tukorea.center;
+
+import org.tukorea.club.*;
+
+public class StudentCenter {
+	public static void main(String[] args) {
+		ProgClub club = new ProgClub();
+	}
+}

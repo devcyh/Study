@@ -1,0 +1,22 @@
+package org.tukorea.club;
+
+public class ProgClubIterator implements Iterator {
+	private ProgClub club;
+	int index = 0;
+
+	public ProgClubIterator(ProgClub club) {
+		this.club = club;
+	}
+
+	@Override
+	public boolean hasNext() {
+		boolean bool = index < club.getSize();
+		return bool;
+	}
+
+	@Override
+	public Object next() {
+		Object obj = club.getMember(index++);
+		return obj;
+	}
+}

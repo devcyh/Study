@@ -1,0 +1,10 @@
+package org.tukorea.club;
+
+public class ProgClubMember {
+	private String name;
+	private String
+	private String
+	private String
+	private String
+	private String
+}
